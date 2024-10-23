@@ -38,6 +38,6 @@ Måste projektet vara 100% komplett?
 
 # Svar
 
-Storlek: det finns inget definitivt svar/gräns. Avgör detta själv. Läraren kommer också hjälpa till när projektplanen har lämntas in. Om något behöver ändras så säger läraren till.
+Storlek: det finns inget definitivt svar/gräns. Avgör detta själv. Läraren kommer också hjälpa till när projektplanen har lämnats in. Om något behöver ändras så säger läraren till.
 
 100% komplett: det beror på vad som menas, men det skall vara en fungerande sida. Man skall kunna klicka runt, gå mellan sidor, använda knappar och så vidare. Om man dock inte hinner att göra varenda liten funktion som var planerat så är det okej. 
