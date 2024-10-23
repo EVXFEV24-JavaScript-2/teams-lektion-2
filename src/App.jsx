@@ -1,6 +1,8 @@
 import "./App.css";
+import { EventsExample } from "./Events";
 import { Exercise1Component } from "./Exercise1";
 import { CountryExercise } from "./Exercise6";
+import { PropsExample } from "./Props";
 
 const TITLE = "McDonalds";
 
@@ -9,6 +11,12 @@ function MyComponent() {
 }
 
 function App() {
+  return (
+    <div>
+      <EventsExample />
+    </div>
+  );
+
   const random = Math.random();
   let content;
   if (random > 0.5) {
